@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.afixapp">
+
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.CAMERA" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".tareas.updateDelete"></activity>
+        <activity android:name=".menu_principal.Profile" />
+        <activity android:name=".menu_principal.Informacion" />
+        <activity android:name=".menu_principal.LoginActivity" />
+        <activity android:name=".menu_principal.RegisterActivity" />
+        <activity android:name=".relajacion.Campinas" />
+        <activity android:name=".relajacion.Montanha" />
+        <activity android:name=".relajacion.Lago" />
+        <activity android:name=".relajacion.Oceano" />
+        <activity android:name=".relajacion.Bosque" />
+        <activity android:name=".relajacion.Praia" />
+        <activity android:name=".relajacion.Relajacion2" />
+        <activity android:name=".relajacion.Estrategias" />
+        <activity android:name=".juegos.Relajacion" />
+        <activity android:name=".juegos.Estiramento" />
+        <activity android:name=".juegos.Fortalecimento" />
+        <activity android:name=".juegos.Aerobic" />
+        <activity android:name=".tareas.CadTarea" />
+        <activity android:name=".menu_principal.Tareas" />
+        <activity android:name=".menu_principal.Configuracion" />
+        <activity android:name=".menu_principal.Juegos" />
+        <activity android:name=".menu_principal.Maps" />
+        <activity android:name=".menu_principal.MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".relajacion.GalleryActivity" />
+
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="@string/map_key" />
+    </application>
+
+</manifest>

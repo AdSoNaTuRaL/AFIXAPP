@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/parent_layout">
+
+    <TextView
+        android:id="@+id/estrategia"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        tools:text="Teste de estratégia"
+        android:textSize="25sp"
+        android:paddingLeft="10dp"
+        android:paddingTop="10dp"
+        android:layout_marginRight="10dp"/>
+
+    <TextView
+        android:id="@+id/desc_estrategia"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:text="TESTETESTETESTETESTETESTETESTETESTETESTETESTETESTETESTETESTE"
+        android:layout_below="@id/estrategia"
+        android:textSize="12sp"
+        android:paddingLeft="10dp"
+        android:singleLine="true"
+        android:ellipsize="marquee"
+        android:layout_marginRight="10dp"/>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/lightGray"
+        android:layout_below="@id/desc_estrategia"/>
+
+</RelativeLayout>

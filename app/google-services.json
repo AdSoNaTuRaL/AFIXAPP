@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "370053678225",
+    "firebase_url": "https://afixapp.firebaseio.com",
+    "project_id": "afixapp",
+    "storage_bucket": "afixapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370053678225:android:a9aac7ab20789775036b30",
+        "android_client_info": {
+          "package_name": "com.example.afixapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "370053678225-6ia4na6v8avmkl9uqvjlt00arleie111.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHIh1RuZGb6wjqgJTy2kuiWWN02OfAyN0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "370053678225-6ia4na6v8avmkl9uqvjlt00arleie111.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

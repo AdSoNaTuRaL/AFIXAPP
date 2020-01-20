@@ -1,0 +1,119 @@
+<resources>
+    <string name="app_name">AFIXAPP</string>
+    <string name="mapa">Mapa</string>
+    <string name="desc_mapa">Comprueba tus ubicaciones</string>
+    <string name="tareas">Tareas</string>
+    <string name="desc_tareas">Comprueba y/o agregue tareas </string>
+    <string name="game">Juegos</string>
+    <string name="desc_game">Comenzar un nuevo juego</string>
+    <string name="config">Configuración</string>
+    <string name="desc_config">Cambiar la configuración</string>
+    <string name="title_activity_tareas">AFIXAPP</string>
+    <string name="observaciones">Observaciones</string>
+    <string name="inicio">Fecha de Inicio</string>
+    <string name="fim">Fecha Final</string>
+    <string name="hora_inicio">Hora de Inicio</string>
+    <string name="hora_fim">Hora de Fim</string>
+    <string name="categoria">Elegir una categoria</string>
+    <string name="frequencia">Elegir una frequencia</string>
+    <string name="atividade">Programe una actividad</string>
+    <string name="title_aviso">Aviso</string>
+    <string name="message_campos_brancos">Hay campos vacíos o inválidos</string>
+    <string name="lbl_ok">Ok</string>
+    <string name="btn_guardar">Grabar</string>
+    <string name="btn_cancelar">Cancelar</string>
+    <string name="message_conexao_sucesso">Conexión creada exitosamente</string>
+    <string name="title_erro">Error</string>
+    <string name="map_key" translatable="false">AIzaSyBNAj1-38HqKotTnNWwM54O8T3DH2ycd3U</string>
+    <string name="search">Buscar...</string>
+    <string name="aerobic">Aeróbico</string>
+    <string name="desc_aerobic">Vea como hacer exercicios aerobicos</string>
+    <string name="estiramento">Estiramento</string>
+    <string name="desc_estiramento">Vea como hacer estiramento</string>
+    <string name="fortalecimento">Fortalecimento</string>
+    <string name="desc_fortalecimento">Vea como se hace para fortalecer</string>
+    <string name="relajacion">Relajación</string>
+    <string name="desc_relajacion">Vea como se hace para relajar</string>
+    <string name = "desc_aerobico"> Realice 20 minutos de ejercicio aeróbico de su elección. Recomendamos caminar (en caminadora o terreno plano), bicicleta estacionaria o elíptica </string>
+    <string name = "desc_fort1"> Mantenga una pierna doblada en el piso y levante la otra pierna recta (hasta la altura de la figura) y luego bájela. Sube y baja 4 veces seguidas y descansa. Después de 1 minuto de descanso, suba y baje la misma pierna 4 veces más. Luego repita el procedimiento con la otra pierna. </string>
+    <string name = "desc_fort2"> Doble ambas piernas y descanse los pies en el piso. Sube y baja la cadera 4 veces seguidas. Descansa 1 minuto. Levanta y baja la cadera 4 veces más seguidas. </string>
+    <string name = "desc_fort3"> Estire los brazos hacia arriba, sosteniendo un peso de 1 kg (por ejemplo, un paquete de azúcar) con ambas manos. Dobla los brazos, bajando el peso detrás de la cabeza. Baje y levante el peso 4 veces seguidas. Descanse durante 1 minuto y reanude la posición inicial. Baje y levante el peso 4 veces más seguidas. </string>
+    <string name = "desc_fort4"> Apóyate en una silla firme. Levante el pie hacia un lado y baje 4 veces seguidas. Descansa 1 minuto. Levanta y baja el pie 4 veces más seguidas. Luego, gire, inclínese sobre la silla y repita el mismo procedimiento con el otro pie. </string>
+    <string name = "desc_estira1"> Doblar ambas piernas, sosteniendo las rodillas. Mantenga por 20 segundos. Repita el ejercicio 3 veces. </string>
+    <string name = "desc_estira2"> Doble una pierna y sostenga la rodilla con las manos, manteniendo la otra pierna recta. Mantenga la posición 20 segundos. Repita el ejercicio 3 veces en cada pierna. </string>
+    <string name = "desc_estira3"> Siéntate sobre tus piernas y junta los pies. Abra una rodilla a cada lado lo más que pueda, sintiendo que el área de la ingle se estira, pero sin dolor. Mantenga por 20 segundos. Repita el ejercicio 3 veces. </string>
+    <string name = "desc_estira4"> Inclina la cabeza hacia un lado tirando de ella con una mano. Mantenga el otro brazo derecho. Mantenga la posición por 20 segundos. Repita el ejercicio 3 veces para cada lado (Nota: para garantizar la posición correcta de la cabeza, sugerimos realizar el ejercicio frente al espejo) </string>
+    <string name = "desc_estira5">Tire del codo detrás de la cabeza con una mano y manténgalo así durante 20 segundos. Repita el ejercicio 3 veces en cada brazo. </string>
+    <string name = "desc_fibromialgia"> Una aflicción en cualquier persona tiene una propagación dolorosa prolongada en todo el cuerpo. El dolor a mano siempre está relacionado con fatiga, problemas con el dolor de cabeza, dolor en la cabeza, depresión y ansiedad. Las personas con fibromialgia también pueden tener sensibilidades en sus articulaciones, músculos, tendones y otros techos blandos.</string>
+    <string name = "desc_afixa"> La Asociación Provincial de Fibromialgia de Jaén, AFIXA, es una entidad con ánimo de lucro, constituida el 11 de noviembre de 2003, con el objetivo de apoyar, mejorar y difundir todo lo relacionado con estas enfermedades crónicas. de sensibilización central llamada fibromialgia, síndrome de fatiga crónica y síndrome de sensibilidad química múltiple. </string>
+    <string name="estrategias">Estrategia </string>
+    <string name="desc_estrategias">Vea estrategias para relajar</string>
+    <string name="praia">Praia</string>
+    <string name="bosque">Bosque</string>
+    <string name="oceano">Oceano</string>
+    <string name="lago">Lago</string>
+    <string name="montanha">Montanha</string>
+    <string name="campinas">Campinas</string>
+    <string name="pause">Pause</string>
+    <string name="play">Play</string>
+    <string name = "desc_estrat1"> Intenta dormir a la misma hora todos los días. De esta manera, su cuerpo siempre estará listo para dormir al mismo tiempo. Te quedarás dormido más rápido en las próximas semanas. </string>
+    <string name = "desc_estrat2"> Ve a la cama solo cuando tengas sueño </string>
+    <string name = "desc_estrat3"> Configura el despertador y despierta a la misma hora todos los días, independientemente de cuánto dormiste la noche anterior. Vaya inmediatamente a un lugar bien iluminado. </string>
+    <string name = "desc_estrat4"> Usa tu habitación solo para dormir. No use la habitación donde duerme para trabajar, estudiar o comer. </string>
+    <string name = "desc_estrat5"> Use la cama solo para dormir o tener relaciones sexuales. No lea, coma, fume, trabaje, chatee en su teléfono celular, juegue videojuegos o mire televisión en la cama. </string>
+    <string name = "desc_estrat6"> Evite mirar televisión antes de acostarse. ¡Mirar televisión puede hacerte sentir inquieto y ralentizarte! </string>
+    <string name = "desc_estrat7"> Descansa y relaja tu cuerpo al menos una hora antes de acostarte. Evite actividades que estimulen la mente y no resuelvan problemas importantes a esta hora del día. </string>
+    <string name = "desc_estrat8"> No beba café, té y chocolate después de las 5 p. m. </string>
+    <string name = "desc_estrat9"> No beba alcohol antes de acostarse. Aunque te ayudan a relajarte, perturban la calidad de tu sueño; si es posible, tome un vaso de leche. </string>
+    <string name = "desc_estrat10"> Si es fumador, no fume dos o tres horas antes de acostarse. </string>
+    <string name = "desc_estrat11"> Intente preparar comidas más ligeras durante la cena. Una buena opción son las ensaladas y verduras. ¡Los alimentos muy grasos como los fritos, por ejemplo, hacen que su estómago se vuelva más pesado y perturban su sueño! </string>
+    <string name = "desc_estrat12"> Mantenga su habitación caliente por la noche. El calor y el frío excesivos alteran la calidad de su sueño. Además, envuelva bien para evitar posibles "contracturas" musculares. </string>
+    <string name = "desc_estrat13"> El ruido y la claridad pueden conducir a un mal sueño. Así que trate de dormir donde haya silencio y poca luz. También recuerde apagar su teléfono celular. </string>
+    <string name = "desc_estrat14"> El ejercicio mejora la calidad del sueño. Pero tenga cuidado: intente hacer ejercicio por la mañana o por la tarde. Si se mantienen cerca de la hora de acostarse, disminuirán la calidad de su sueño. </string>
+    <string name = "desc_estrat15"> Intente hacer una rutina antes de acostarse. Por ejemplo: sacar al gato, cerrar las puertas, cepillarse los dientes $, # 8230 te acostumbra a tu cuerpo y te recuerda que se acerca la hora de dormir, acortando el tiempo que esperas a que llegue el sueño. </string>
+    <string name = "desc_estrat16"> Se recomiendan baños calientes antes de acostarse para combatir su insomnio. Relajan tu cuerpo y tu mente. </string>
+    <string name = "desc_estrat17"> No tome una siesta durante el día, incluso si durmió la noche anterior. Esto disminuye la necesidad de dormir por la noche. </string>
+    <string name = "desc_estrat18"> Siempre duerma en una cama donde se sienta cómodo. Esto es muy importante para que pueda relajarse por completo para conciliar el sueño. </string>
+    <string name = "desc_estrat19"> Duerme solo el tiempo suficiente para sentirte bien. No te quedes en la cama más tiempo del necesario. </string>
+    <string name = "desc_estrat20"> Si no puede dormir después de 20 minutos, levántese y salga de la cama. Haga alguna actividad tranquila y vuelva a la cama cuando tenga sueño. Repita esta estrategia tantas veces como sea necesario. Debe enseñarle a su cuerpo a asociar la cama con el sueño, no con la frustración. </string>
+    <string name = "desc_estrat21"> ¡Diga no a los medicamentos! Debe tomar medicamentos para dormir solo con consejo médico. </string>
+    <string name="name">Nombre</string>
+    <string name="mail">Correo</string>
+    <string name="password">Contraseña</string>
+    <string name="confirm_password">Confirme tu contraseña</string>
+    <string name="permisso_gallery">Por favor, acepte el permiso requerido</string>
+    <string name="new_account">Cuenta criada</string>
+    <string name="new_account_failled">Crear cuenta fallida</string>
+    <string name="user_info_update">Registro completo</string>
+    <string name="login">Iniciar sesión</string>
+    <string name="registrarse">Registrarse</string>
+    <string name="datos_invalidos">Datos inválidos</string>
+    <string name="perfil">Perfil</string>
+    <string name="desc_perfil">Añada tu perfil, atualize informaciones personais</string>
+    <string name="info">Información</string>
+    <string name="desc_info">Información sobre la fibromialgia y sobre la associasión AFIXA</string>
+    <string name="fibromialgia">Fibromialgia</string>
+    <string name="afixa">AFIXA</string>
+    <string name="user_is_login">Para usar esta funcionalidad, debe iniciar sesión</string>
+    <string name="att_info">Guardar</string>
+    <string name="salir">Salir</string>
+    <string name="save_tarea">Tarea salva</string>
+    <string name="btn_excluir">Borrar</string>
+    <string name="btn_actualizar">Actualizar</string>
+
+    <string-array name="categorias_item">
+        <item>Ejercicio físico</item>
+        <item>Consulta Média</item>
+        <item>Medicación</item>
+        <item>Ocio</item>
+        <item>Otros</item>
+    </string-array>
+
+    <string-array name="frequencias_item">
+        <item>Evento Único</item>
+        <item>Diariamente</item>
+        <item>Todos los días hábiles</item>
+        <item>Semanal</item>
+        <item>Mensual</item>
+    </string-array>
+</resources>
