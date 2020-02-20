@@ -7,5 +7,4 @@ It is important to note that until then I had no or little knowledge with Androi
 2. An area where the application can provide information about physical exercises, relaxation exercises, audios, images and a series of other items so that the user who has this type of disease can feel more comfortable;
 3. A task scheduler, reminders because this type of user has constant memory losses;
 4. An area where the user can edit their profile and have more information about the disease and the association that sponsored the idea.
-
-**[Here](https://marvelapp.com/47aidb5) you can find mokups of the screens**
+5. **[Here](https://marvelapp.com/47aidb5) you can find mokups of the screens**
