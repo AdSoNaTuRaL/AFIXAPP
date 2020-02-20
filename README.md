@@ -9,5 +9,5 @@ It is important to note that until then I had no or little knowledge with Androi
 4. An area where the user can edit their profile and have more information about the disease and the association that sponsored the idea.
 5. **[Here](https://marvelapp.com/47aidb5) you can find mokups of the screens**
 
-![Main Menu](https://user-images.githubusercontent.com/26275918/74983080-a830ed00-5435-11ea-853c-9a2186dfb0a2.png?w=512)
+![Main Menu](https://user-images.githubusercontent.com/26275918/74983080-a830ed00-5435-11ea-853c-9a2186dfb0a2.png height="150")
 
