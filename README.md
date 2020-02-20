@@ -9,4 +9,4 @@ It is important to note that until then I had no or little knowledge with Androi
 4. An area where the user can edit their profile and have more information about the disease and the association that sponsored the idea.
 
 **We have mokups of the screens**
-[MOKUPS](]https://marvelapp.com/47aidb5)
+[MOKUPS](https://marvelapp.com/47aidb5)
