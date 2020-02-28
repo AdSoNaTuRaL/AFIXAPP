@@ -1,5 +1,5 @@
 # AFIXAPP
-An application is being developed for people suffering from fibromyalgia. The idea was provided by the University of Jaén, in which I am doing a master's degree and attributed to me as a project of one of the master's subjects. The app is still in development.
+An application is being developed for people suffering from fibromyalgia. The idea was provided by the University of Jaén, in which I am doing a master's degree and attributed to me as a project of one of the master's subjects. **The app is still in development**.
 It is important to note that until then I had no or little knowledge with Android development and this is a personal challenge for me.
 
 ## Application Features
