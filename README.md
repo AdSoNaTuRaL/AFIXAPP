@@ -10,6 +10,6 @@ It is important to note that until then I had no or little knowledge with Androi
 5. **[Here](https://marvelapp.com/47aidb5) you can find mokups of the screens**
 
 ## Some screenshots of the app
-<img src="https://i.ibb.co/4jzzLkQ/Relax-Menu.png" height="504"> <img src="https://i.ibb.co/9hkc2Rd/Tasks-Menu.png" height="504"> <img src="https://i.ibb.co/KhDJkGY/Audio-Menu.png" height="504">
+<img src="https://i.ibb.co/4jzzLkQ/Relax-Menu.png" height="505"> <img src="https://i.ibb.co/9hkc2Rd/Tasks-Menu.png" height="505"> <img src="https://i.ibb.co/KhDJkGY/Audio-Menu.png" height="504">
 
 
